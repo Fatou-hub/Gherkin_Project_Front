@@ -1,0 +1,29 @@
+/* gherkin_mot_cles_page.css */
+.gherkin_mots_cles_pages #unique_h2 {
+    margin-top: 50px; 
+    margin-bottom: 0;
+}
+
+.steps_gkn{
+    max-width: 500px;
+    border-radius: 20px 20px 20px 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    background-color: rgb(3, 29, 45);
+    text-align: center;
+    color:white;
+}
+
+.paragraph_gkn{
+
+    max-width: 1250px;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    background-color: rgb(69, 101, 119);
+    color:white;
+    opacity:0.7;
+}
